@@ -1,0 +1,15 @@
+[{
+  "llsid": 2005077162097733809,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [{
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101003,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [{
+          "adTrackInfo": [{
+              "type": 1,
+              "url": ["https://click.yingzhongshare.com/commerce_monitor_link_service/click/common?os\u003d2\u0026androidid\u003d__ANDROIDID2__\u0026cid\u003d22721886192\u0026clickTime\u003d__TS__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DyNRbmeLxw6hoVLVqQ_DC0S6GjBYJaB-y-asfSDpB-ZpVQJURcB0fYr4c373NDJIev_OvfGD2pf6yAJCh93Y1wmIOmClBVqv0b1X6BQHBrJWFWCR2DV-1Ikh_Enw8ca46yAQQPizUk1qgnzft6uYewW5gn6QDwVV4Yt3d1ePksaa2PsyUinctTvawhiJoZl2G\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026mac\u003d__MAC2__\u0026ip\u003d220.114.232.192\u0026ua\u003d__UA__\u0026adId\u003d1453552345\u0026unitId\u003d793209920\u0026channelName\u003dkuaishou\u0026account_id\u003d13071443\u0026notifyType\u003d1\u0026prdid\u003d580008\u0026channel\u003d6099410"]
+            } ]
