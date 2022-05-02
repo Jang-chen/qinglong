@@ -1,0 +1,667 @@
+﻿[{
+  "result" : 1,
+  "errorMsg" : "OK",
+  "impAdInfo" : [
+    {
+      "adInfo" : [
+        {
+          "advertiserInfo" : {
+            "userGender" : "M",
+            "accountId" : 6851691,
+            "portraitUrl" : "https:\/\/p5.a.yximgs.com\/uhead\/AB\/2020\/06\/04\/13\/BMjAyMDA2MDQxMzQ1NTlfMTk2MDIxMDY0MV8xX2hkNTQxXzU3Ng==_s.jpg",
+            "userId" : 1960210641,
+            "userName" : "有玩01"
+          },
+          "reservationId" : "",
+          "adConversionInfo" : {
+            "h5Type" : 0,
+            "liveStreamId" : "PojYA1tAoJg",
+            "cellphone" : "",
+            "appDownloadUrl" : "https:\/\/itunes.apple.com\/cn\/app\/id1093063463",
+            "marketUrl" : "",
+            "midPageUrl" : "",
+            "email" : "",
+            "h5Url" : "",
+            "deeplinkUrl" : ""
+          },
+          "adBaseInfo" : {
+            "adShowDuration" : 19,
+            "adActionBarColor" : "289fcc",
+            "inspireAdInfo" : {
+              "inspireAdBillTime" : 35000
+            },
+            "serverExpTag" : "",
+            "adxSourceType" : 0,
+            "adMarkContent" : "广告",
+            "adPos" : 0,
+            "adSourceDescription" : "广告",
+            "appIconUrl" : "http:\/\/static.yximgs.com\/udata\/pkg\/55d370261734472e9e6b265ed40650d0.jpg",
+            "campaignId" : 767334054,
+            "adActionDescription" : "立即下载",
+            "unitId" : 1397230137,
+            "adSourceType" : 1,
+            "adDescription" : "这才是休闲弹射游戏，超爽打击感，不肝不氪，休闲又好玩!",
+            "appScore" : 43,
+            "appName" : "弹弹岛2",
+            "deliveryStartTs" : 0,
+            "deliveryEndTs" : 0,
+            "adShowEnable" : 0,
+            "enableCloseAd" : true,
+            "autoDownloadForWifi" : false,
+            "usePriorityCard" : false,
+            "adOperationType" : 1,
+            "creativeId" : 22279727587,
+            "appPackageName" : "",
+            "chargeInfo" : "KG58G8MPYo477rcT1dKCb9+D4fbM1K3OmJZOqBf9WtbvsMo0rP8MLA2dulbi4JWu9WCK6zALZSuDLAkrcB9f1+GXFcfkK7P5vUB73zem3nci0hKYMN4Zoaifk2CM+r2jjeNlT49A84xD6GFW+yzp3\/mpzvmRucs0R1JUa+OYQU\/\/pZ4L1QZeLibfn5UuAOj47vCTbg4uLuTXbUqoHC2LM1cOFkrj0xjrsTuI5DGRdmxu647xzZUvnprUYDBvAdvn+9Nw7PA4jnpwT+0qbIawcevZ\/uRThkipDCfmtN\/n8bRkKdORXDUdguETNPB0MoVizAx\/59tUZmycMB73qrnUHeFqmGkCq2ijY6jv5G4x8+beZgDv6Qw+XwqDi7WFhzrI0X0mFktCHmp\/fIIzR6zkTYggOOWmgSSSbk1Cz+f5IKSlMs9Fju56muteNSTYvEijv17XdT+ZsNnGMKU7nG0hIdz00\/+La\/qcpvjHhFu9WAgqqdqO5fIpTlBSN\/IS8CXpAgpYY5FXthpQvPg241BmFQCE2Dnqgyi8d83gXMn0HBuMZ+t0u5\/63xIajvFgFaHyHFe9IG44g5bUPQ4TJn9Br8\/YeG+Z9XbuhH1mAJ5FL1W3AYiKSvy4trS3iJN6t\/km9IqSa9wRsam3neKZnjoIU3zEU5zkVwCAqFg9Stfw5PNExI8flduZx+gMJTrxyqzD7sTDk6Lls14vgZq9C52XmJv9E9D5gYag01fQ\/KAq5D10l\/o5dnrF8NecLfzz0CfjLcHJfWM6ujk0tRphaAy5WWzlcDBZt5Nl9aSNiZ1b66d2dvnXej7YiGfKfxytrwfMW2ysvECuCizmD4Rq1CSipce911hefFyAmfecVxJI1d26r8c1oNJrKVdcO1FepK\/VZLU83xBLSW5cdCJBhqUoU98EeXJ3X6+4GRdBdtuIH3q8\/yC8Bmyj6sP9Y6w0or\/olvxe5DOVxxHBDbVXMBrmaoTkgTTufYAmisgiQ\/mj3Zw38ZsOtic6Y0cpDD1riH65ez6gfSuZqGNw0Fw6op7OCFoE1i12SURTDjzwVI6eE5xzZQqXW2fCN67nCi6K214I2tiIwfH9cXj3CAw5qwon4JCwU96KdJZPmY4eDfD49VgyUjS15\/Jw9DVI576xrpSrAz15h2OrApzRP+82oHpH6823wNmnhFyIUQFxfM2d5tU2KuukLcUd\/jGxDuXHO4vjQnObNlpMpuYjTqqYTrSkFdWYx5tUlj2EJXb+o370mTe3BnfVCDpD8tgcXYM+etYKRZ2a8VmtXDdthxF+VUR7fNDlA31hF2akfF3FVMxatl\/zUGuTp8H8reGOJz2PJtOKIeGegJyRtaKqON92RRAd0J3DTKv9c2hClRjkbe7JsHbB5O28kT2rJF+LFz\/yHNXXP6kkUmbmRufMOGytCfrViSamZ2S3HzhSZLvaHg0CVujCF7j5C8DqSvp\/CqorjPHcReiFy0caLCw3\/HgmuocTNdqQhibzCsPNO7QN38bsSyITprEDvLAcryTLJ1B3ZbWgEKf\/uMtb+rIZ1SfAjjd0JzVjhp2ZoDf99dznqg14RfqapSWKvFIcUezH\/iPZGpz\/YPyaMXzQY8jg0v9PCeBPiJi5ezYVijYZmdwJPMe+wrAfxpaSTHGROosY7XnOj3CtVWV2kSDma\/3PQgodRoqVC2Y2Abv8hjoFPRELBFqxOQ7Aw4Ay11bdwOuNp9pdCoBoWsnN\/ZvK2idRr5u5eEMNUNAGFcNWF7ckLNKepmvlMae8y7iZ747D93gGtBJ29Dg5MOpzesZ1NGo72izfaBxv52fDXcufC\/Y2FFn5soo9lFrnflS0aPAX+FOZqY0B\/8FtkAbEIBCQj5vk0X1WTDKquYvalLDZfyZVqTM6vAf95kDGnENK6R+d73wPKHW\/AU2KivDRgxLks7vKPQRl8\/\/NxdoR6AfDJQ6QMryDwRE\/tH\/FJ968D9L\/QjR+K9mAo11mfQf18hJ\/o0DsFj3B36aPXnQPUZUTtgFia3jXTUbk+SkytpFYLcz\/XmAYN\/R3\/ZbdBDPCk1gAlIo7j9OzkEsTw6D4dnSxKxPMtpDrlsPPAiONLIUlOW0y8NU13jmL+zW1X0psLepdwSxCaxRGX5mmN0WiG2249e80JDuXu1oiTTrv01dGCCVhNcM3eTm9GlIuwNwhOCqVRpUmZtH6rlUETuMZJIoCNA3XmGh95yRSRvBpSmMyAmiKp35vKt5cN75ojzN7G2VcBc0RDEaRVOhJsbo2BSHSWrUJIDFelFTtWKWEFS+fKmMiwrVdRailYemYlhUh7+1yekxGVafzNRZla3o6NfUc2qpEq4a1jjCyn85QCOm0vz0BSlUhkHccHMGDueJOMTFyBDpLoxswzTCMk6HRjBEkKOPE4vuP9Pj1XfE+XV\/P3nLIBjrFADMow1b6wEwGoWtthRNz6tkq33ch4XtcTP6R7PCp6D5sVHaFx9g=",
+            "productName" : "弹弹岛2",
+            "accountId" : 6851691,
+            "campaignName" : "0408-优质素材-主站-2的托管计划"
+          },
+          "liveStartTime" : 0,
+          "adMaterialInfo" : {
+            "materialType" : 1,
+            "materialFeature" : [
+              {
+                "coverUrl" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg",
+                "photoId" : 5257952620641437188,
+                "featureType" : 1,
+                "photoSize" : {
+                  "width" : 720,
+                  "height" : 1280
+                },
+                "materialSize" : {
+                  "width" : 0,
+                  "height" : 0
+                },
+                "materialUrl" : "https:\/\/txmov2.a.kwimgs.com\/upic\/2021\/06\/17\/16\/BMjAyMTA2MTcxNjMxMjJfMTk2MDIxMDY0MV81MTU3MDM5MDA4Ml8wXzM=_b_Bb475843aab785f0249a24e4ddebb8855.mp4?tag=1-1651472903-unknown-0-4hdpgl8jh4-a0daefda8ab88aaf&clientCacheKey=3xe9dz3utmi2dr4_b.mp4&tt=b&di=df68f0c9&bp=13292"
+              }
+            ]
+          },
+          "adTrackInfo" : [
+            {
+              "type" : 21,
+              "url" : [
+                "https:\/\/api.youwanplay.com\/market\/ad\/click?ad_key=nr2blb&type=kuaishou&md5_idfa=__IDFA2__&os=1&timestamp=__TS__&ip=113.12.55.68&callback_url=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DYu2VATYGdW7r6EYNu5hqubD5JSGZDj61wysAV_KmKYkpHdqu-aGfg0puO_w8ff4NEWhh-fhwpMx5GV82tWv8xwEF7NhpOrS6hqrLQaGQzZOZtRp-3Mo4sVeR_qezT2htS15M11R_xCDdMfiMqTBtsFkAT6gGkPiUm8zeRbpeSiTL_KiPFO-P_2WmcHZMyeJK1S3XcoYlGazEhAUE4Y30sA"
+              ]
+            }
+          ]
+        }
+      ],
+      "gridPos" : 0,
+      "gridUnitId" : "1",
+      "type" : 1,
+      "pageId" : 100011251,
+      "subPageId" : 100011252
+    }
+  ],
+  "llsid" : 2005126595997334529,
+  "feeds" : [
+    {
+      "cover_thumbnail_urls" : [
+        {
+          "url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg"
+        }
+      ],
+      "isShareCountExp" : false,
+      "liked" : 0,
+      "photo_status" : 0,
+      "streamManifest" : {
+        "adaptationSet" : [
+          {
+            "id" : 1,
+            "duration" : 18600,
+            "representation" : [
+              {
+                "id" : 1,
+                "backupUrl" : [
+                  "http:\/\/v1.kwaicdn.com\/ksc1\/U-x7qAwpi8RjgLYt7u1BTqyfjZ9lsSqZMt-___90ujpgmicCjzeCfqyEI1dgk6BtuPBXP_k5JC4rD2I2XdnrhpFqSbqXnE_GMLfF8TFqPSSnHPFF4vBJ7xaIDv1Cp6DNFW0H8PWOVopxc-0_CHRWotedPa1MBTwNB3d50F0FUw-5SMu-81CwH43Ru_A0eN12.mp4?pkey=AAW5hyLDfcLb2pry86c7nr5-RO9poFfF_D9p_xf3OF-TopM8VmDQnLklR3n4cG89JLXINWfKTqmhzXfxe_fTA9fBxwmYqwneBohVRX9nGFXxwyt83L_kIr4GnCPm9WyIr7I&tag=1-1651473159-unknown-1-zsf8st3tz8-422a3930314b9375&type=hot&clientCacheKey=3xe9dz3utmi2dr4_swft.mp4&di=710c3744&bp=10002&tt=swft&ss=vp"
+                ],
+                "avgBitrate" : 728,
+                "quality" : 1.6000000000000001,
+                "fileSize" : 1694442,
+                "width" : 720,
+                "url" : "http:\/\/v10.kwaicdn.com\/ksc1\/U-x7qAwpi8RjgLYt7u1BTqyfjZ9lsSqZMt-___90ujpgmicCjzeCfqyEI1dgk6BtuPBXP_k5JC4rD2I2XdnrhpFqSbqXnE_GMLfF8TFqPSSnHPFF4vBJ7xaIDv1Cp6DNFW0H8PWOVopxc-0_CHRWotedPa1MBTwNB3d50F0FUw-5SMu-81CwH43Ru_A0eN12.mp4?pkey=AAV4d8iEB1nclhYirAKJiFJb2l5mN6bO_BCy_FLgroNmN1cH_Qm_qzxFhWmwaLhNVV_Q5oO75ErulmZ1LbtXXaPZ9sB7KL_9pbP0aRK_U0qNM3AHFVdxt8l5kUts9D4Hc2A&tag=1-1651473159-unknown-0-clbs0zq8fq-3a8177a953f7423b&type=hot&clientCacheKey=3xe9dz3utmi2dr4_swft.mp4&di=710c3744&bp=10002&tt=swft&ss=vp",
+                "maxBitrate" : 2300,
+                "disableAdaptive" : false,
+                "comment" : "84d4275ca57663b1\/swft",
+                "bitratePattern" : [
+                  1563,
+                  697,
+                  1563,
+                  72,
+                  632
+                ],
+                "frameRate" : 25,
+                "height" : 1280,
+                "qualityType" : "720p",
+                "qualityLabel" : "高清",
+                "hidden" : false,
+                "defaultSelect" : false,
+                "featureP2sp" : false,
+                "hdrType" : 0
+              },
+              {
+                "id" : 2,
+                "backupUrl" : [
+                  "http:\/\/v1.kwaicdn.com\/ksc1\/Za__qPP3K87PL-Hin23onUkOQ1ka9ADaNWnMkA6z_jWrQkmbOoZy4uUkTV0RCn4qRAzGvY01SPGS3Fr1Xoo18CGM7HHItdeXIiTKf7hU1fvcEuLlMuU9J-h-zt9vDT2ZgEHUDXrbKbxmOOyNLwemP7MJpQsTt0OC4LmDpPOJDf1SfVsTxPd6TfGq8U5KfvGN.mp4?pkey=AAVTu3srwBXKTNIBd6RmpFeQNCg5Fyy1xvuw_N6k6eFbSI7so_zz5UitjZCDGgReWe_9K6f1zz22MuqsD8mdGwH3FAhmM_qLAP2KXagF1atqfQ_k3fvOP9jMtTNF-nTpFi8&tag=1-1651473159-unknown-1-t8ekobm5lj-15d2dcedef1f177e&type=hot&clientCacheKey=3xe9dz3utmi2dr4_hd18.mp4&di=710c3744&bp=10002&tt=hd18&ss=vp"
+                ],
+                "avgBitrate" : 405,
+                "quality" : 1.3999999999999999,
+                "fileSize" : 942287,
+                "width" : 576,
+                "url" : "http:\/\/v10.kwaicdn.com\/ksc1\/Za__qPP3K87PL-Hin23onUkOQ1ka9ADaNWnMkA6z_jWrQkmbOoZy4uUkTV0RCn4qRAzGvY01SPGS3Fr1Xoo18CGM7HHItdeXIiTKf7hU1fvcEuLlMuU9J-h-zt9vDT2ZgEHUDXrbKbxmOOyNLwemP7MJpQsTt0OC4LmDpPOJDf1SfVsTxPd6TfGq8U5KfvGN.mp4?pkey=AAWZL2oo11aT_Rp3drFHwUMbJgPCRw0dyDzv6Yx8tmXkvnSD6zHiyJnuxndudCv5_ETtNO-7vG0LrSps0r-Itp7ZEM5pUdzG0npexnfHUBnHCiu4GNjsfg6K0aviqrDUOKg&tag=1-1651473159-unknown-0-1tyufgwwua-c7661ca2b89143a5&type=hot&clientCacheKey=3xe9dz3utmi2dr4_hd18.mp4&di=710c3744&bp=10002&tt=hd18&ss=vp",
+                "maxBitrate" : 750,
+                "disableAdaptive" : false,
+                "comment" : "84d4275ca57663b1\/hd18",
+                "bitratePattern" : [
+                  976,
+                  345,
+                  976,
+                  104,
+                  242
+                ],
+                "frameRate" : 25,
+                "height" : 1024,
+                "qualityType" : "576p",
+                "qualityLabel" : "标清",
+                "hidden" : false,
+                "defaultSelect" : false,
+                "featureP2sp" : false,
+                "hdrType" : 0
+              },
+              {
+                "id" : 3,
+                "backupUrl" : [
+                  "http:\/\/v1.kwaicdn.com\/ksc1\/eDn6q6ncb7PaRj3leeAhzd-o0D7dYdb4dAK8gtNhUUZ0tcgNdXVYml3T1ohpsKWCGnvk-RhQvFXu_zhgS7m0JkIsWn-Hc7Lp0T320uC3kEr13aBRrHLWAZXh6e4bVgl2C6Z6Oeil81Gcu0KmBBpukXeW0pn9l_5nilPXR8ma5uFzK9YX_zdMra4BjYPhqKit.mp4?pkey=AAUIYxO836OlY1QOtua8JWejZ9WyAJKHMptC5d5DFI7l3KcYikbxSuqxJ4F4k84vaKhJ9O3uUNYeelN3CySl-HWkdO--aDdAiH38qjWP58bwF7umFkkiIFwTUXRfqxVlKcA&tag=1-1651473159-unknown-1-xvc3rrqc7k-2d2a2ce1a27ab708&type=hot&clientCacheKey=3xe9dz3utmi2dr4_hd19.mp4&di=710c3744&bp=10002&tt=hd19&ss=vp"
+                ],
+                "avgBitrate" : 435,
+                "quality" : 1.2,
+                "fileSize" : 1012194,
+                "width" : 540,
+                "url" : "http:\/\/v10.kwaicdn.com\/ksc1\/eDn6q6ncb7PaRj3leeAhzd-o0D7dYdb4dAK8gtNhUUZ0tcgNdXVYml3T1ohpsKWCGnvk-RhQvFXu_zhgS7m0JkIsWn-Hc7Lp0T320uC3kEr13aBRrHLWAZXh6e4bVgl2C6Z6Oeil81Gcu0KmBBpukXeW0pn9l_5nilPXR8ma5uFzK9YX_zdMra4BjYPhqKit.mp4?pkey=AAVGsiX9xhiW5hAdxLuduv6JGANP_ADSnyuldeqM45pAOecHAUzNKrW-ZroQ3kgtVCHm00EjpUe8m_hd38rEhYd67sIrvhQ_nXM1z_UHLSC8LNTBcMQRFDnEyktwd105Pgc&tag=1-1651473159-unknown-0-o1y7rejwvy-df1060bd575e79bc&type=hot&clientCacheKey=3xe9dz3utmi2dr4_hd19.mp4&di=710c3744&bp=10002&tt=hd19&ss=vp",
+                "maxBitrate" : 400,
+                "disableAdaptive" : false,
+                "comment" : "84d4275ca57663b1\/hd19",
+                "bitratePattern" : [
+                  587,
+                  406,
+                  601,
+                  208,
+                  105
+                ],
+                "frameRate" : 25,
+                "height" : 960,
+                "qualityType" : "480p",
+                "qualityLabel" : "流畅",
+                "hidden" : false,
+                "defaultSelect" : false,
+                "featureP2sp" : false,
+                "hdrType" : 0
+              }
+            ]
+          }
+        ],
+        "mediaType" : 2,
+        "playInfo" : {
+
+        },
+        "videoId" : "84d4275ca57663b1",
+        "version" : "1.0.0",
+        "businessType" : 2,
+        "hideAuto" : false,
+        "stereoType" : 0,
+        "manualDefaultSelect" : false
+      },
+      "user_id" : 1960210641,
+      "displayTime" : null,
+      "shareGuide" : {
+        "playTimes" : 2147483647,
+        "photoShareGuide" : false,
+        "minPlayDurationInSeconds" : 2147483647,
+        "textDisplayDurationInSeconds" : 4
+      },
+      "exp_tag" : "1_u\/2005126595997334529_hd0",
+      "ad" : {
+        "taskId" : 0,
+        "adRerankInfo" : {
+          "pos" : 5,
+          "rankType" : 3
+        },
+        "score" : 4.2999999999999998,
+        "tracks" : [
+          {
+            "type" : 21,
+            "url" : "https:\/\/api.youwanplay.com\/market\/ad\/click?ad_key=nr2blb&type=kuaishou&md5_idfa=__IDFA2__&os=1&timestamp=__TS__&ip=113.12.55.68&callback_url=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DYu2VATYGdW7r6EYNu5hqubD5JSGZDj61wysAV_KmKYkpHdqu-aGfg0puO_w8ff4NEWhh-fhwpMx5GV82tWv8xwEF7NhpOrS6hqrLQaGQzZP5JAJvd4Xe9Bz6yRpfhPisQKPqoNAMIU4sf3UEFEuMpUwA7Kec5zr_U9uf4J1ijXEkieb9EJw39IldnqTBnOiblavqKtm8p1t22fcWow9v1A",
+            "urlOperationType" : 1
+          }
+        ],
+        "preloadLandingPage" : false,
+        "pageId" : 100011251,
+        "missionId" : 0,
+        "conversionType" : 1,
+        "layout" : null,
+        "chargeInfo" : "KG58G8MPYo477rcT1dKCb9+D4fbM1K3OmJZOqBf9WtbvsMo0rP8MLA2dulbi4JWu9WCK6zALZSuDLAkrcB9f1+GXFcfkK7P5vUB73zem3nci0hKYMN4Zoaifk2CM+r2jjeNlT49A84xD6GFW+yzp3\/mpzvmRucs0R1JUa+OYQU\/\/pZ4L1QZeLibfn5UuAOj47vCTbg4uLuTXbUqoHC2LM1cOFkrj0xjrsTuI5DGRdmxu647xzZUvnprUYDBvAdvn+9Nw7PA4jnpwT+0qbIawcevZ\/uRThkipDCfmtN\/n8bRkKdORXDUdguETNPB0MoVizAx\/59tUZmycMB73qrnUHeFqmGkCq2ijY6jv5G4x8+beZgDv6Qw+XwqDi7WFhzrI0X0mFktCHmp\/fIIzR6zkTYggOOWmgSSSbk1Cz+f5IKSlMs9Fju56muteNSTYvEijv17XdT+ZsNnGMKU7nG0hIdz00\/+La\/qcpvjHhFu9WAgqqdqO5fIpTlBSN\/IS8CXpAgpYY5FXthpQvPg241BmFQCE2Dnqgyi8d83gXMn0HBuMZ+t0u5\/63xIajvFgFaHyHFe9IG44g5bUPQ4TJn9Br8\/YeG+Z9XbuhH1mAJ5FL1W3AYiKSvy4trS3iJN6t\/km9IqSa9wRsam3neKZnjoIU3zEU5zkVwCAqFg9Stfw5PNExI8flduZx+gMJTrxyqzD7sTDk6Lls14vgZq9C52XmJv9E9D5gYag01fQ\/KAq5D10l\/o5dnrF8NecLfzz0CfjLcHJfWM6ujk0tRphaAy5WWzlcDBZt5Nl9aSNiZ1b66d2dvnXej7YiGfKfxytrwfMW2ysvECuCizmD4Rq1CSipce911hefFyAmfecVxJI1d26r8c1oNJrKVdcO1FepK\/VZLU83xBLSW5cdCJBhqUoU98EeXJ3X6+4GRdBdtuIH3q8\/yC8Bmyj6sP9Y6w0or\/olvxe5DOVxxHBDbVXMBrmaoTkgTTufYAmisgiQ\/mj3Zw38ZsOtic6Y0cpDD1riH65ez6gfSuZqGNw0Fw6op7OCFoE1i12SURTDjzwVI6eE5xzZQqXW2fCN67nCi6K214I2tiIwfH9cXj3CAw5qwon4JCwU96KdJZPmY4eDfD49VgyUjS15\/Jw9DVI576xrpSrAz15h2OrApzRP+82oHpH6823wNmnhFyIUQFxfM2d5tU2KuukLcUd\/jGxDuXHO4vjQnObNlpMpuYjTqqYTrSkFdWYx5tUlj2EJXb+o370mTe3BnfVCDpD8tgcXYM+etYKRZ2a8VmtXDdthxF+VUR7fNDlA31hF2akfF3FVMxatl\/zUGuTp8H8reGOJz2PJtOKIeGegJyRtaKqON92RRAd0J3DTKv9c2hClRjkbe7JsHbB5O28kT2rJF+LFz\/yHNXXP6kkUmbmRufMOGytCfrViSamZ2S3HzhSZLvaHg0CVujCF7j5C8DqSvp\/CqorjPHcReiFy0caLCw3\/HgmuocTNdqQhibzCsPNO7QN38bsSyITprEDvLAcryTLJ1B3ZbWgEKf\/uMtb+rIZ1SfAjjd0JzVjhp2ZoDf99dznqg14RfqapSWKvFIcUezH\/iPZGpz\/YPyaMXzQY8jg0v9PCeBPiJi5ezYVijYZmdwJPMe+wrAfxpaSTHGROosY7XnOj3CtVWV2kSDma\/3PQgodRoqVC2Y2Abv8hjoFPRELBFqxOQ7Aw4Ay11bdwOuNp9pdCoBoWsnN\/ZvK2idRr5u5eEMNUNAGFcNWF7ckLNKepmvlMae8y7iZ747D93gGtBJ29Dg5MOpzesZ1NGo72izfaBxv52fDXcufC\/Y2FFn5soo9lFrnflS0aPAX+FOZqY0B\/8FtkAbEIBCQj5vk0X1WTDKquYvalLDZfyZVqTM6vAf95kDGnENK6R+d73wPKHW\/AU2KivDRgxLks7vKPQRl8\/\/NxdoR6AfDJQ6QMryDwRE\/tH\/FJ968D9L\/QjR+K9mAo11mfQf18hJ\/o0DsFj3B36aPXnQPUZUTtgFia3jXTUbk+SkytpFYLcz\/XmAYN\/R3\/ZbdBDPCk1gAlIo7j9OzkEsTw6D4dnSxKxPMtpDrlsPPAiONLIUlOW0y8NU13jmL+zW1X0psLepdwSxCaxRGX5mmN0WiG2249e80JDuXu1oiTTrv01dGCCVhNcM3eTm9GlIuwNwhOCqVRpUmZtH6rlUETuMZJIoCNA3XmGh95yRSRvBpSmMyAmiKp35vKt5cN75ojzN7G2VcBc0RDEaRVOhJsbo2BSHSWrUJIDFelFTtWKWEFS+fKmMiwrVdRailYemYlhUh7+1yekxGVafzNRZla3o6NfUc2qpEq4a1jjCyn85QCOm0vz0BSlUhkHccHMGDueJOMTFyBDpLoxswzTCMk6HRjBEkKOPE4vuP9Pj1XfE+XV\/P3nLIBjrFADMow1b6wEwGoWtthRNz6tkq33ch4XtcTP6R7PCp6D5sVHaFx9g=",
+        "appName" : "弹弹岛2",
+        "title" : "立即下载",
+        "labelStyle" : 0,
+        "url" : "https:\/\/apps.apple.com\/cn\/app\/id1093063463",
+        "fansTopDetailPageFlameDesc" : "",
+        "smallIcon" : null,
+        "adData" : {
+          "cover" : null,
+          "useTrackType" : 0
+        },
+        "commentOn" : true,
+        "appIconUrl" : "http:\/\/static.yximgs.com\/udata\/pkg\/55d370261734472e9e6b265ed40650d0.jpg",
+        "clientStyleInfo" : {
+          "landingPageActionbarInfo" : {
+            "popLandingPageHeightPct" : 30,
+            "actionBarShowTime" : 3000,
+            "actionBarDisplayInfo" : "推荐"
+          },
+          "adMaterialFeatures" : null
+        },
+        "disableFansTopDetailIconClick" : false,
+        "coverId" : 4368695131,
+        "alertNetMobile" : false,
+        "fansTopDetailPageFlameType" : 3,
+        "deviceInfo" : null,
+        "supConversionType" : null,
+        "styles" : {
+          "templates" : [
+            {
+              "templateUrl" : "https:\/\/static.yximgs.com\/s1\/tachikoma\/dist\/dynamic-comment-actionbar.101.js",
+              "templateVersion" : "1.0.1",
+              "templateId" : "dynamic-comment-actionbar",
+              "templateVersionCode" : 101,
+              "templateMd5" : "6b4b6c7330bbd9ecfba4c1b1da01f044"
+            }
+          ]
+        },
+        "h5App" : false,
+        "weakStyle" : false,
+        "displayType" : 2,
+        "itemHideLabel" : false,
+        "enableRetainTopAd" : false,
+        "sourceDescription" : "广告",
+        "hasNewStyle" : 0,
+        "adDataV2" : {
+          "convertInfo" : {
+            "convertId" : 0,
+            "convertType" : 0
+          },
+          "h5Data" : "{\"coverUrlFrontend\":\"http:\/\/static.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null}}",
+          "webviewType" : 0,
+          "actionBarInfo" : {
+            "displayInfo" : "立即下载",
+            "actionBarColor" : "289fcc",
+            "actionBarStyle" : 1,
+            "downloadedActionBarLoadTime" : 3000,
+            "realShowDelayTime" : 7000,
+            "withoutFloatingToComment" : true,
+            "actionBarLoadTime" : 5000
+          },
+          "captionAdvertisementInfo" : {
+
+          },
+          "enableSka" : false,
+          "originStyleInfo" : {
+            "actionBarDesc" : "这才是休闲弹射游戏，超爽打击感，不肝不氪，休闲又好玩!",
+            "appScore" : "43",
+            "secondIndustryName" : "休闲益智",
+            "appIconUrl" : "http:\/\/static.yximgs.com\/udata\/pkg\/55d370261734472e9e6b265ed40650d0.jpg",
+            "consultId" : "0",
+            "showPlayEndInfo" : true,
+            "productName" : "弹弹岛2",
+            "photoUserInfo" : {
+
+            },
+            "appName" : "弹弹岛2",
+            "actionBarText" : "立即下载",
+            "productIconUrl" : "http:\/\/static.yximgs.com\/udata\/pkg\/55d370261734472e9e6b265ed40650d0.jpg",
+            "actionBarBgColor" : "289fcc",
+            "actionBarTagColor" : "228bb2"
+          },
+          "playedReportTime" : [
+            7000,
+            10000,
+            18000
+          ],
+          "extraDisplayInfo" : {
+
+          },
+          "exitDialogInfo" : {
+            "enableShowChangeVideoButton" : true
+          },
+          "iosPageId" : "",
+          "commentActionBarInfo" : {
+            "actionBarStyle" : 2,
+            "displayInfo" : "立即下载",
+            "actionBarLocation" : 2,
+            "actionBarColor" : "289fcc",
+            "templateId" : "dynamic-comment-actionbar"
+          },
+          "deepRewardedInfo" : {
+
+          },
+          "adCoverPageButtonControl" : 6,
+          "landingPageInfo" : {
+            "allowedDeeplinkPrefix" : [
+              "tel:",
+              "tbopen:\/\/m.taobao.com",
+              "weixin:\/\/",
+              "hap:\/\/app",
+              "market:\/\/detail",
+              "alipay:\/\/",
+              "alipays:\/\/"
+            ],
+            "commentTagVisible" : true,
+            "loadUrlInteractionType" : 1
+          },
+          "abTestForAdForms" : "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "negativeMenuInfo" : {
+            "detailNegativeMenu" : [
+              {
+                "title" : "你不感兴趣这条广告的原因？",
+                "menuId" : 11,
+                "subMenuIds" : [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId" : 14
+              },
+              {
+                "menuId" : 16
+              }
+            ],
+            "negativeStyle" : 1,
+            "negativeMenus" : [
+              {
+                "id" : 7,
+                "clickAction" : 2,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/dislike_icon_yiji_normal.png",
+                "name" : "不喜欢: 弹弹岛2",
+                "url" : ""
+              },
+              {
+                "id" : 8,
+                "clickAction" : 2,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/dislike_icon_similarpost_normal.png",
+                "name" : "不喜欢: 休闲益智广告",
+                "url" : ""
+              },
+              {
+                "id" : 11,
+                "clickAction" : 3,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/layer_ad_dislike_icon.png",
+                "name" : "不感兴趣"
+              },
+              {
+                "id" : 12,
+                "clickAction" : 3,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/menu_layer_dislike_icon.png",
+                "name" : "不感兴趣",
+                "desc" : "减少此类内容"
+              },
+              {
+                "id" : 13,
+                "name" : "不感兴趣该内容",
+                "clickAction" : 2
+              },
+              {
+                "id" : 14,
+                "clickAction" : 1,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/layer_ad_report_icon.png",
+                "name" : "举报",
+                "url" : "https:\/\/activity.e.kuaishou.com\/pages\/report?layoutType=4&bizId=ad_fe_full_loading&photoId=51570390082"
+              },
+              {
+                "id" : 15,
+                "clickAction" : 1,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/menu_layer_report_icon.png",
+                "name" : "举报",
+                "url" : "https:\/\/activity.e.kuaishou.com\/pages\/report?layoutType=4&bizId=ad_fe_full_loading&photoId=51570390082",
+                "desc" : "低俗色情、虚假诈欺等"
+              },
+              {
+                "id" : 16,
+                "clickAction" : 2,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/layer_ad_reason_icon.png",
+                "name" : "为何看到此广告",
+                "url" : "https:\/\/activity.e.kuaishou.com\/pages\/report\/why-show-ad-dialog?layoutType=4&bizId=ad_fe_full_loading"
+              },
+              {
+                "id" : 17,
+                "clickAction" : 1,
+                "icon" : "https:\/\/static.yximgs.com\/udata\/pkg\/ks-dark\/menu_layer_reason_icon.png",
+                "name" : "为何看到此广告",
+                "url" : "https:\/\/activity.e.kuaishou.com\/pages\/report\/why-show-ad-full?layoutType=4&bizId=ad_fe_full_loading&noBackNavi=true"
+              }
+            ],
+            "thanosDetailNegativeMenu" : [
+              {
+                "title" : "你不感兴趣这条广告的原因？",
+                "menuId" : 11,
+                "subMenuIds" : [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId" : 14
+              },
+              {
+                "menuId" : 16
+              }
+            ],
+            "feedNegativeMenu" : [
+              {
+                "title" : "你不感兴趣这条广告的原因？",
+                "menuId" : 12,
+                "subMenuIds" : [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId" : 15
+              },
+              {
+                "menuId" : 17
+              }
+            ]
+          },
+          "iosAppId" : "1093063463",
+          "itemClickUrls" : {
+            "actionBarClickUrls" : {
+              "appLink" : "",
+              "url" : ""
+            }
+          },
+          "playedReportRate" : [
+            0.75
+          ],
+          "inspireAdInfo" : {
+            "inspireAdBillTime" : 26000,
+            "enableClickOtherArea" : true,
+            "rewardEndInfo" : {
+              "hightLightTitle" : null,
+              "rewardValue" : null,
+              "iconUrl" : null,
+              "title" : null,
+              "enableShowAgainView" : false,
+              "extParams" : null,
+              "subTitle" : null,
+              "actionTitle" : null
+            }
+          },
+          "playEndInfo" : {
+            "playEndStyle" : 1,
+            "tagColor" : "1f7da1",
+            "actionBarColor" : "289fcc",
+            "showEndOption" : false
+          },
+          "posId" : "774",
+          "templateDatas" : [
+            {
+              "templateId" : "dynamic-comment-actionbar",
+              "data" : "{\"hideIcon\":false,\"subTitle\":\"这才是休闲弹射游戏，超爽打击感，不肝不氪，休闲又好玩!\",\"iconUrl\":\"http:\/\/static.yximgs.com\/udata\/pkg\/55d370261734472e9e6b265ed40650d0.jpg\",\"title\":\"弹弹岛2\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"289fcc\"}",
+              "styleType" : 8,
+              "displayLocation" : 0,
+              "templateShowTime" : 0,
+              "templateDelayTime" : 9000,
+              "resourceType" : 1,
+              "commentActionBarType" : 1
+            }
+          ],
+          "adPageButtonControl" : 6
+        },
+        "creativeId" : 22279727587,
+        "universeConfig" : null,
+        "newStyle" : true,
+        "adCover" : {
+          "coverUrls" : [
+            {
+              "url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg"
+            },
+            {
+              "url" : "http:\/\/ali2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg"
+            }
+          ],
+          "width" : 720,
+          "height" : 1280
+        },
+        "subscriptDescription" : "广告",
+        "actionBarRatio" : 1,
+        "orderId" : 0,
+        "actionBarColor" : "289fcc",
+        "subPageId" : 100011252,
+        "actionBarStyle" : 1,
+        "actionBarLoadTime" : 3000,
+        "manuUrls" : [
+
+        ],
+        "fansTopFeedFlameType" : 4,
+        "useH5" : false,
+        "usePriorityCard" : false,
+        "adStyle" : 0,
+        "adTypeForGap" : 1,
+        "sourceType" : 1,
+        "extData" : "{\"templateInfos\":[\"8_1_101_0\"]}",
+        "adType" : 1,
+        "merchantEnhanceDisplay" : null,
+        "playEndInfo" : {
+          "playEndStyle" : 1000
+        },
+        "enableShowFansTopFlame" : false,
+        "adDescription" : "这才是休闲弹射游戏，超爽打击感，不肝不氪，休闲又好玩!",
+        "showEndOption" : true,
+        "templateType" : 1,
+        "callbackParam" : null,
+        "landingPageStyle" : 0
+      },
+      "feedLogCtx" : {
+        "stidContainer" : "CkMxfDIwMDUxMjY1OTU5OTczMzQ1Mjl8cGhvdG86NTI1Nzk1MjYyMDY0MTQzNzE4OHx7InBnIjoiaGQifXx7InIiOjB9"
+      },
+      "slideCommentEntryDisabled" : false,
+      "unlike_count" : 0,
+      "headurls" : [
+        {
+          "cdn" : "p4.a.yximgs.com",
+          "url" : "http:\/\/p4.a.yximgs.com\/uhead\/AB\/2020\/06\/04\/13\/BMjAyMDA2MDQxMzQ1NTlfMTk2MDIxMDY0MV8xX2hkNTQxXzU3Ng==_s.jpg"
+        },
+        {
+          "cdn" : "p2.a.yximgs.com",
+          "url" : "http:\/\/p2.a.yximgs.com\/uhead\/AB\/2020\/06\/04\/13\/BMjAyMDA2MDQxMzQ1NTlfMTk2MDIxMDY0MV8xX2hkNTQxXzU3Ng==_s.jpg"
+        }
+      ],
+      "share_info" : "userId=3xgikmbsqs9h55m&photoId=3xe9dz3utmi2dr4",
+      "main_mv_urls" : [
+        {
+          "url" : "https:\/\/txmov2.a.kwimgs.com\/upic\/2021\/06\/17\/16\/BMjAyMTA2MTcxNjMxMjJfMTk2MDIxMDY0MV81MTU3MDM5MDA4Ml8wXzM=_b_Bb475843aab785f0249a24e4ddebb8855.mp4?tag=1-1651472903-unknown-0-4hdpgl8jh4-a0daefda8ab88aaf&clientCacheKey=3xe9dz3utmi2dr4_b.mp4&tt=b&di=df68f0c9&bp=13292"
+        }
+      ],
+      "verified" : false,
+      "cover_urls" : [
+        {
+          "url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg"
+        }
+      ],
+      "caption" : "这才是休闲弹射游戏，超爽打击感，不肝不氪，休闲又好玩!",
+      "main_url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg",
+      "share_count" : 14,
+      "user_sex" : "M",
+      "type" : 1,
+      "ext_params" : {
+        "interval" : 25,
+        "color" : "EAEAEA",
+        "h" : 1280,
+        "sound" : 0,
+        "w" : 720,
+        "video" : 18600,
+        "mtype" : 3
+      },
+      "profilePagePrefetchInfo" : {
+        "profilePageType" : 1
+      },
+      "location" : {
+
+      },
+      "plcFeatureEntryAbFlag" : 0,
+      "thumbnail_urls" : [
+        {
+          "url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg"
+        }
+      ],
+      "comment_count" : 0,
+      "noNeedToRequestPLCApi" : true,
+      "plcHighPriorityThanBottomEntry" : false,
+      "plcResponseTime" : 0,
+      "adminTags" : [
+
+      ],
+      "us_c" : 0,
+      "thumbnail_url" : "http:\/\/tx2.a.yximgs.com\/udata\/pkg\/smart_c44bf7a9016a4c86a619092b2bb86433.kpg",
+      "forward_stats_params" : {
+        "fid" : "2854950011",
+        "et" : "1_u\/2005126595997334529_hd0"
+      },
+      "override_cover_size" : {
+        "width" : 720,
+        "height" : 1280
+      },
+      "tags" : [
+
+      ],
+      "comments" : [
+
+      ],
+      "like_count" : 0,
+      "us_d" : 1,
+      "followShoot" : {
+        "isLipsSyncPhoto" : false
+      },
+      "view_count" : 525852,
+      "hated" : 0,
+      "forward_count" : 0,
+      "frameStyle" : 0,
+      "extEntry" : null,
+      "time" : "2022-05-02 14:32:39",
+      "timestamp" : 1651473159293,
+      "recoTags" : [
+
+      ],
+      "main_mv_url" : "https:\/\/txmov2.a.kwimgs.com\/upic\/2021\/06\/17\/16\/BMjAyMTA2MTcxNjMxMjJfMTk2MDIxMDY0MV81MTU3MDM5MDA4Ml8wXzM=_b_Bb475843aab785f0249a24e4ddebb8855.mp4?tag=1-1651472903-unknown-0-4hdpgl8jh4-a0daefda8ab88aaf&clientCacheKey=3xe9dz3utmi2dr4_b.mp4&tt=b&di=df68f0c9&bp=13292",
+      "user_name" : "有玩01",
+      "photo_id" : 5257952620641437188,
+      "serverExpTag" : "feed_photo|5257952620641437188|1960210641|1_u\/2005126595997334529_hd0",
+      "following" : 0
+    }
+  ],
+  "error_msg" : "OK"
+}]
