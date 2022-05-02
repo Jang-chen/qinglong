@@ -1,0 +1,138 @@
+[{
+  "result" : 1,
+  "cleanResourceWarmup" : false,
+  "disableZipWarmup" : false,
+  "disableVideoWarmup" : false,
+  "disableImageWarmup" : false,
+  "delayDurationInSeconds" : 3,
+  "warmupVideos" : {
+    "maxSpeed" : 6291456,
+    "wifiOnly" : false,
+    "connectTimeoutMs" : 5000,
+    "mode" : "moderate",
+    "videos" : [
+
+    ]
+  },
+  "disableResourceWarmup" : false,
+  "warmupImages" : {
+    "mode" : "moderate",
+    "images" : [
+
+    ]
+  },
+  "minWarmupDiskSize" : 100,
+  "warmupZips" : {
+    "mode" : "moderate",
+    "zips" : [
+      {
+        "urls" : [
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v2.zip"
+          },
+          {
+            "cdn" : "ali2.a.yximgs.com",
+            "url" : "https:\/\/ali2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v2.zip"
+          }
+        ],
+        "id" : 270,
+        "checksum" : "62469b9b0418c6c540a3f924e3b78b00",
+        "resourceId" : "KUAISHOU:12:580563357",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      },
+      {
+        "urls" : [
+          {
+            "cdn" : "ali2.a.yximgs.com",
+            "url" : "https:\/\/ali2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_pendant_v1.zip"
+          },
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_pendant_v1.zip"
+          }
+        ],
+        "id" : 271,
+        "checksum" : "841def90dc7008d4802a2aa3936268c2",
+        "resourceId" : "KUAISHOU:12:-30379931",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      },
+      {
+        "urls" : [
+          {
+            "cdn" : "ali2.a.yximgs.com",
+            "url" : "https:\/\/ali2.a.yximgs.com\/kos\/nlav11203\/mayday22\/labourday_task_complete_anim.zip"
+          },
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/labourday_task_complete_anim.zip"
+          }
+        ],
+        "id" : 274,
+        "checksum" : "dcb6a350c723b17eee728bdf84c321be",
+        "resourceId" : "KUAISHOU:12:-3483186",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      },
+      {
+        "urls" : [
+          {
+            "cdn" : "js2.a.yximgs.com",
+            "url" : "https:\/\/js2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v3.zip"
+          },
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v3.zip"
+          }
+        ],
+        "id" : 279,
+        "checksum" : "bc4f4ec675801cc3cda8437b55e8084c",
+        "resourceId" : "KUAISHOU:12:581486878",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      },
+      {
+        "urls" : [
+          {
+            "cdn" : "js2.a.yximgs.com",
+            "url" : "https:\/\/js2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v4.zip"
+          },
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/old_22mayday_suspension_v4.zip"
+          }
+        ],
+        "id" : 280,
+        "checksum" : "09efdfb867112f9c774dc99a6c6be430",
+        "resourceId" : "KUAISHOU:12:582410399",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      },
+      {
+        "urls" : [
+          {
+            "cdn" : "ali2.a.yximgs.com",
+            "url" : "https:\/\/ali2.a.yximgs.com\/kos\/nlav11203\/mayday22\/labourday_task_complete_anim_3x_v4.zip"
+          },
+          {
+            "cdn" : "tx2.a.yximgs.com",
+            "url" : "https:\/\/tx2.a.yximgs.com\/kos\/nlav11203\/mayday22\/labourday_task_complete_anim_3x_v4.zip"
+          }
+        ],
+        "id" : 281,
+        "checksum" : "1d21334fabd4722a9e99c511e1ecbd89",
+        "resourceId" : "KUAISHOU:12:1007859303",
+        "resourceKey" : "",
+        "smallCache" : false,
+        "op" : "start"
+      }
+    ]
+  }
+}]
